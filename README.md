@@ -1,6 +1,6 @@
 # 🤖 OFFICE MATE AI
 
-A smart AI-powered chatbot that lets you upload PDFs and ask natural language questions. It uses **Groq'S LLaMA3** model for fast and efficient responses and **FAISS** for semantic search on document chunks. Built with **Streamlit**, this project enables contextual Q&A directly from your documents!
+A smart AI-powered chatbot that lets you upload PDFs and ask natural language questions. It uses **Groq'S LLaMA2** model for fast and efficient responses and **FAISS** for semantic search on document chunks. Built with **Streamlit**, this project enables contextual Q&A directly from your documents!
 
 ---
 
